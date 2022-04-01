@@ -1,0 +1,19 @@
+{
+  "name": "ocean",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "seb graf",
+  "license": "MIT",
+  "devDependencies": {
+    "@parcel/transformer-glsl": "^2.4.1",
+    "fontfaceobserver": "^2.1.0",
+    "gsap": "^3.10.2",
+    "imagesloaded": "^5.0.0",
+    "parcel": "^2.4.1",
+    "three": "^0.137.0"
+  }
+}
